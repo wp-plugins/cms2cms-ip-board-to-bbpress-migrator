@@ -1,6 +1,6 @@
 ﻿=== CMS2CMS IP Board to bbPress Migrator  ===
 Contributors: cms2cms
-Tags: IP Board to bbPress, IP Board to bbPress mirgation, convert IP Board to bbPress, migrate IP Board to bbPress
+Tags: IP Board to bbPress, IP Board to bbPress migration, convert IP Board to bbPress, migrate IP Board to bbPress, bbPress, IP.Board
 Requires at least: 3.0.0
 Tested up to: 3.8
 Stable tag: 3.6.2
