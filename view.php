@@ -34,12 +34,12 @@ class CmsPluginView
 
     public function getPluginSourceName()
     {
-        return $this->__('IP Board', 'cms2cms-mirgation');
+        return $this->__('IPBoard', 'cms2cms-mirgation');
     }
 
     public function getPluginSourceType()
     {
-        return 'IP Board';
+        return 'IPBoard';
     }
 
     public function getPluginTargetName()
