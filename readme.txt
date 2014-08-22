@@ -13,6 +13,9 @@ If you are about to migrate your website from IP Board to bbPress, this plugin c
 
 If you are about to migrate your website from IP Board to bbPress, this plugin can help to transfer your content automatically and with no programming skills needed. The whole migration takes from a few minutes to a couple of hours  depending on how many topics/replies and other content your forum has got.   
 
+* *There is Free Demo available (migration of limited number of posts, threads, etc.).*
+* *Full Migration starts from $39.*
+
 = What is converted from IP Board to bbPress forum? =
 * replies
 * threads
@@ -27,6 +30,9 @@ If you are about to migrate your website from IP Board to bbPress, this plugin c
 - free Demo available - so that you can see how it works before making the payment.
 - live chat & ticket support before, during and after migration.
 
+= Video =
+[youtube https://www.youtube.com/watch?v=k5JeNf0wg58]
+
 More info: http://www.cms2cms.com/supported-cms/ip-board-to-bb-press-migration
 
 IP.Board to bbPress migrator installs the bridge on your WordPress website, required for data interaction between the Invision Power Board and bbPress databases. To complete the migration, you will be redirected to CMS2CMS website after you activate the plugin.
@@ -37,7 +43,6 @@ IP.Board to bbPress migrator installs the bridge on your WordPress website, requ
 - WordPress and bbPress should be installed before the migration.
 - WordPress website should be available online to perform the migration. 
 - Have IP.Board site FTP access details (host, username, password).
-
 
 == Installation ==
 
