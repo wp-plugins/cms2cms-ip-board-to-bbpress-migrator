@@ -39,7 +39,7 @@ IP.Board to bbPress migrator installs the bridge on your WordPress website, requ
 
 = Important. Website design (styles, themes, templates) isn’t converted. =
 
-= Pre-Migration Checklist= 
+= Pre-Migration Checklist = 
 - WordPress and bbPress should be installed before the migration.
 - WordPress website should be available online to perform the migration. 
 - Have IP.Board site FTP access details (host, username, password).
