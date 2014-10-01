@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: IP Board to bbPress, IP Board to bbPress migration, convert IP Board to bbPress, migrate IP Board to bbPress, bbPress, IP.Board, bbpress migration
 Requires at least: 3.0.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -33,7 +33,7 @@ If you are about to migrate your website from IP Board to bbPress, this plugin c
 = Video =
 [youtube https://www.youtube.com/watch?v=k5JeNf0wg58]
 
-More info: http://www.cms2cms.com/supported-cms/ip-board-to-bb-press-migration
+More info: http://www.cms2cms.com/supported-cms/ip-board-to-bb-press-migration?utm_source=IPBoard&utm_medium=Link&utm_campaign=WordPress_plugins
 
 IP.Board to bbPress migrator installs the bridge on your WordPress website, required for data interaction between the Invision Power Board and bbPress databases. To complete the migration, you will be redirected to CMS2CMS website after you activate the plugin.
 
