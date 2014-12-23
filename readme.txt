@@ -44,6 +44,12 @@ IP.Board to bbPress migrator installs the bridge on your WordPress website, requ
 - WordPress website should be available online to perform the migration. 
 - Have IP.Board site FTP access details (host, username, password).
 
+Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours:
+Phone support – 24 hours a day, Monday – Friday
+Live Chat support – 24 hours a day, Monday – Friday
+Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
+
+
 == Installation ==
 
 1. Download the plugin zip file
