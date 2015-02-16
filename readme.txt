@@ -14,7 +14,7 @@ If you are about to migrate your website from IP Board to bbPress, this plugin c
 If you are about to migrate your website from IP Board to bbPress, this plugin can help to transfer your content automatically and with no programming skills needed. The whole migration takes from a few minutes to a couple of hours  depending on how many topics/replies and other content your forum has got.   
 
 * *There is Free Demo available (migration of limited number of posts, threads, etc.).*
-* *Full Migration starts from $49.*
+* *Full Migration starts from $39.*
 
 = What is converted from IP Board to bbPress forum? =
 * replies
